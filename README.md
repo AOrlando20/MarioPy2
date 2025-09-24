@@ -1,6 +1,6 @@
 # MarioPy2
 
-Recreación de Super Mario Bros (SNES) en Python.
+Recreación del primer nivel de Super Mario Bros (SNES) en Python.
 El código esta hecho 100% en python.
 
 # Instalación
